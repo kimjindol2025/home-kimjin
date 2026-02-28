@@ -1,0 +1,21 @@
+{
+  "name": "home-cleanup-tool",
+  "version": "1.0.0",
+  "description": "/home/kimjin/ 디렉토리 정리 도구 및 가이드 (Phase 1-3 완료)",
+  "author": "Claude",
+  "license": "MIT",
+  "keywords": ["cleanup", "system-optimization", "disk-management"],
+  "category": "system-tools",
+  "tags": ["cleanup", "optimization", "home-directory"],
+  "main": "README.md",
+  "scripts": {
+    "start": "cat README.md"
+  },
+  "contents": [
+    "README.md",
+    "cleanup-plan.md",
+    "phase1-report.md",
+    "phase2-report.md",
+    "phase3-report.md"
+  ]
+}
